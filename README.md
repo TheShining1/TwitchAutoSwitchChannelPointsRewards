@@ -1,6 +1,6 @@
 # TwitchAutoSwitchChannelPointsRewards
 
-This two actions will find the game you are playing and set your game category accordingly. You then can use Stream Update event in Streamer.Bot and trigger action from this repo and switch your channel points rewards.
+This two actions will find the game you are playing and set your game category accordingly. You then can use Stream Update event in Streamer.Bot and trigger action from [this](https://github.com/TheShining1/TwitchSemiautoSwitchChannelPointsRewards) repo and switch your channel points rewards.
 
 ## Import code for Streamer.Bot
 ```
